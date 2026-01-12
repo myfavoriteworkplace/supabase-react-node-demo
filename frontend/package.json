@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "react-scripts start",
+    "build": "react-scripts build",
     "build:local": "env-cmd -f .env.local react-scripts build",
     "build:prod": "env-cmd -f .env.prod react-scripts build"
   },
